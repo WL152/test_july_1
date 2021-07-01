@@ -1,0 +1,19 @@
+{
+  "name": "test_july_1",
+  "version": "1.0.0",
+  "description": "lorem ipsum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WL152/test_july_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WL152/test_july_1/issues"
+  },
+  "homepage": "https://github.com/WL152/test_july_1#readme"
+}
